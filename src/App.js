@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 
-let isrc = "https://t1.daumcdn.net/cfile/tistory/9960F64E5BC745362B";
+let isrc = "https://ilovecharacter.com/news/data/20221020/p1065568174920387_228_thum.jpg";
 
 function App() {
   return (
